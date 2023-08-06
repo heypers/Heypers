@@ -1,8 +1,10 @@
 # Heypers Team
 
-[![Heypers Logo](https://github.com/heypers_logo.png)](https://heypers-project.com)
+<p align="center">
+  <img src="assets/icons/HP.png" width="200"/>
+</p>
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-HeypersLicense-green.svg)](Heypers-License.md)
 [![Discord](https://img.shields.io/discord/1234567890?label=Join%20Us&logo=discord&logoColor=white&color=7289DA)](https://discord.gg/N8MYbANVJ6)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fheypersproject.com)](https://heypers-project.com)
 
@@ -28,4 +30,4 @@ Heypers Project - это удивительный проект, который �
 
 ## Лицензия
 
-Этот проект лицензирован в соответствии с лицензией MIT - подробности см. в файле [LICENSE](LICENSE).
+Этот проект лицензирован в соответствии с лицензией Heypers - подробности см. в файле [HeypersLicense](Heypers-License.md).
