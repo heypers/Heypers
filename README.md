@@ -6,7 +6,7 @@
 
 [![License](https://img.shields.io/badge/License-HeypersLicense-green.svg)](Heypers-License.md)
 [![Discord](https://img.shields.io/discord/823510265504989194?label=Join%20Us&logo=discord&logoColor=white&color=7289DA)](https://discord.gg/N8MYbANVJ6)
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fheypersproject.com)](https://heypers-project.com)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fheypers.github.io)](https://heypers.github.io/)
 
 ## О проекте
 
