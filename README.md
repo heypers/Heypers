@@ -1,3 +1,5 @@
+> Copyright [2023] [mrf0rtuna4] Licensed under the Apache License, Version 2.0 (the «License»);
+
 # Heypers Team
 
 <p align="center">
