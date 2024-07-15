@@ -18,7 +18,7 @@ limitations under the License.
 </div>
 
 <p align="center">
-  <img src="https://github.com/heypers/heypers/blob/main/assets/icons/HP.png" width="200"/>
+  <img src="https://github.com/heypers/heypers/blob/main/assets/icons/HP.jpg" width="200"/>
 </p>
 
 <div align="center">
